@@ -1,4 +1,4 @@
-# Hi there 👋 
+# 연습하기 👋 
 
 <div align="right">
   
