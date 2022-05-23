@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 -->
 
 [![kimbeomgyu's github stats](https://github-readme-stats.vercel.app/api?username=kimbeomgyu&hide=stars,contribs,issues&show_icons=true)](https://github.com/kimbeomgyu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbeomgyu&layout=compact)](https://github.com/kimbeomgyu)
