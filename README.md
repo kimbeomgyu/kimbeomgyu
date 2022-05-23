@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kimbeomgyu's github stats](https://github-readme-stats.vercel.app/api?username=kimbeomgyu&hide=stars,contribs,issues&show_icons=true](https://github-readme-stats.vercel.app/api?username=kimbeomgyu&hide=stars,contribs,issues&show_icons=true&bg_color=DEG,FF6600,660066&text_color=FFF&title_color=FFF&icon_color=FFF)](https://github.com/kimbeomgyu)
+[![kimbeomgyu's github stats]](https://github.com/kimbeomgyu)
